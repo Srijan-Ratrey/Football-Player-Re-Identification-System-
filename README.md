@@ -5,7 +5,7 @@ This project implements a robust player re-identification system for football fo
 
 **Company:** Liat.ai  
 **Project Type:** AI Intern Technical Assessment  
-**Implementation:** Single Feed Re-Identification (Option 2) ✅
+**Implementation:** Single Feed Re-Identification ✅
 
 ## Key Features
 - **Robust Player Detection**: Using YOLOv11 model for accurate player detection
@@ -173,10 +173,3 @@ python single_feed_reidentification.py \
 3. Real-time processing optimization
 4. Cross-camera player mapping
 
-## Contact
-For questions about this implementation:
-- **Email**: arshdeep@liat.ai, rishit@liat.ai
-- **Documentation**: See `TECHNICAL_REPORT.md`
-
-## License
-Developed as part of the Liat.ai AI Intern Technical Assessment. 
