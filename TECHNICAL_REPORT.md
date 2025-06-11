@@ -1,7 +1,6 @@
 # Player Re-Identification in Sports Footage - Technical Report
 
 **Author:** Developed for Liat.ai AI Intern Technical Assessment  
-**Date:** December 2024  
 **Project:** Football Player Re-Identification System  
 
 ## Executive Summary
@@ -251,8 +250,3 @@ This project successfully implements a robust player re-identification system th
 The system demonstrates strong potential for real-world deployment and provides a solid foundation for future enhancements in sports video analysis.
 
 ---
-
-**Contact Information:**
-- Email: arshdeep@liat.ai, rishit@liat.ai
-- Project Repository: [GitHub/Google Drive submission]
-- Documentation: README.md and inline code comments 
